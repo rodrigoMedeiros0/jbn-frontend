@@ -61,27 +61,27 @@ https://jbnconstrucoes.com.br/
 
 ![Tela Inicial](src/assets/readme/imagem1.PNG)
 
-![Tela Inicial pelo celular](src/assets/readme/imagem5.PNG)
+![Tela Inicial pelo celular](src/assets/readme/imagem5.png)
 
  ### Página Empreendimentos
 
 ![Tela de empreendimentos](src/assets/readme/imagem2.PNG)
 
-![Tela de empreendimentos pelo celular](src/assets/readme/imagem6.PNG)
+![Tela de empreendimentos pelo celular](src/assets/readme/imagem6.png)
 
 
  ### Página Empreendimentos por ID
 
 ![Tela de empreendimentos pro ID](src/assets/readme/imagem3.PNG)
-![Tela de empreendimentos pro ID no celular](src/assets/readme/imagem8.PNG)
+![Tela de empreendimentos pro ID no celular](src/assets/readme/imagem8.png)
 
  ### Página Quem Somos
 
-![Tela quem somos](src/assets/readme/imagem4.PNG)
+![Tela quem somos](src/assets/readme/imagem4.png)
 
  ### Página Contato
 
-![Tela Contato](src/assets/readme/imagem7.PNG)
+![Tela Contato](src/assets/readme/imagem7.png)
 
  ### Página de Login
 
